@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Chairul Manalu 👋
+AI Infrastructure · Network · Compute · Security — Jakarta, Indonesia
 
-<!--
-**chairulm/chairulm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I design and deliver AI infrastructure — from GPU clusters and high-performance networking to the security that wraps around them.
+🔧 Focus areas: GPU cluster architecture, InfiniBand / Ethernet fabrics, network automation, NGFW & endpoint security
+🧪 Currently building: practical tools with agentic AI and mobile apps
+---
+🧰 Tech I work with
+Infrastructure: NVIDIA GPU platforms · InfiniBand · Spectrum Ethernet · Open Ethernet · Bare-metal orchestration
+Automation: Ansible · Python · Linux
+Apps: Kotlin · Jetpack Compose · Android · Webapp
+---
+📫 Connect
+https://www.linkedin.com/in/chairulmanalu/
